@@ -1,5 +1,5 @@
 # Allegro5
-Building Allegro 5 on Linux using SCONS
+Building SDL2 on Linux using SCONS
 
 
 you need to install scons and python
