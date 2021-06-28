@@ -1,4 +1,4 @@
-# Allegro5
+# SDL2
 Building SDL2 on Linux using SCONS
 
 
